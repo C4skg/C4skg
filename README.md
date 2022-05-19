@@ -4,7 +4,7 @@
 世界是美好，因为遇见你而悄然蜕变 我相信努力总会有所收获，作为学渣的我也不例外
 <hr>
 <div align="center">
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> <img src="https://img.shields.io/badge/-Python-oringe?style=lightgray&color=yellow&logo=Python" />
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> <img src="https://img.shields.io/badge/-Python-oringe?style=lightgray&color=purple&logo=Python" />
 </div>
 <hr>
 <div align="center">
