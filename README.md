@@ -18,6 +18,6 @@
 <br>
 
 <!-- 奖杯 -->
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=404Rank&column=7&row=1" /> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=404Rank&column=7&row=1&theme=monokai" /> </div>
 <br>
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=404Rank&theme=react-dark&hide_border=true" /> </div>
