@@ -17,9 +17,9 @@
 </div>
 <br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=404Rank&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width=49% src="https://github-readme-stats.vercel.app/api?username=404Rank&show_icons=true&theme=tokyonight&hide_border=true"/>
 <!-- 连续打卡次数 -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=404Rank&theme=dark&hide_border=true" />
+<img width=49% src="https://github-readme-streak-stats.herokuapp.com/?user=404Rank&theme=dark&hide_border=true" />
 </div>
 <br>
 
