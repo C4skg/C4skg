@@ -2,9 +2,10 @@
 我是C4skg，欢迎各位大佬 star，fork，follow
 
 世界是美好，因为遇见你而悄然蜕变 我相信努力总会有所收获，作为学渣的我也不例外
-<hr>
+
 <div align="center">
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> <img src="https://img.shields.io/badge/-Python-oringe?style=lightgray&color=purple&logo=Python" />
+<span> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> <img src="https://img.shields.io/badge/-Python-oringe?style=lightgray&color=purple&logo=Python" />  
+</span>
 </div>
 <hr>
 <div align="center">
@@ -12,10 +13,11 @@
 </div>
 <br>
 <div align="center">
-<img height=260px width=600px src="https://github-readme-stats.vercel.app/api?username=404Rank&show_icons=true&theme=tokyonight&&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=404Rank&show_icons=true&theme=tokyonight&&hide_border=true"/>
 </div>
 <br>
 
+<!-- 奖杯 -->
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=404Rank&column=7&row=1" /> </div>
 <br>
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=404Rank&theme=react-dark&hide_border=true" /> </div>
