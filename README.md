@@ -3,6 +3,15 @@
 
 世界是美好，因为遇见你而悄然蜕变 我相信努力总会有所收获，作为学渣的我也不例外
 <br>
+<h2>
+  <div align="center">
+    <span>
+    CODEING！
+    <img width=5% src = "https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"/>
+    </span>
+  </div>
+</h2>
+<br>
 <!-- 标签 -->
 <div align="center">
 <span> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> <img src="https://img.shields.io/badge/-Python-oringe?style=lightgray&color=purple&logo=Python" />  
