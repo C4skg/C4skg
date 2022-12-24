@@ -35,8 +35,7 @@
 <!-- 奖杯 -->
 <div align="center"> <img width=100% src="https://github-profile-trophy.vercel.app/?username=C4skg&column=7&row=1&theme=monokai&no-frame=true" /> </div>
 <br>
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=C4skg&theme=react-dark&hide_border=true" /> </div>
-<br>
+
 <div align="center">
 <img src="https://camo.githubusercontent.com/043fa247ce347f851a4e3f65eabf8ef952cd5d046e9c9dcbc8143bb2d94d16c4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f70686f746f732f696d616765732f3230323131313032313932363730342e706e67"/>
 </div>
