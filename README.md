@@ -1,7 +1,5 @@
-# Hello! 👋
-欢迎 star，fork，follow
+# C4skg
 
-世界是美好，因为遇见你而悄然蜕变 我相信努力总会有所收获
 <br>
 <h2>
   <div align="center">
